@@ -60,5 +60,4 @@ contact_book[new_contact_2] = email_contact_2
 print(contact_book)
 
 # Print out all the contacts.
-
 print(contact_book)
